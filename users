@@ -88,5 +88,11 @@
         "key": "ldacrGILMq",
         "expirydate": "08-04-2042",
         "Allowoffline": false
+    },
+    {
+        "device_id": "7bfd6240097d7023",
+        "key": "OqFIMLlCse",
+        "expirydate": "08-10-2025",
+        "Allowoffline": false
     }
 ]
