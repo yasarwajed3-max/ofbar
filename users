@@ -94,5 +94,11 @@
         "key": "Rx43Q7wS8Y",
         "expirydate": "08-08-85352",
         "Allowoffline": false
+    },
+    {
+        "device_id": "b01541087546c22e",
+        "key": "nd98RTSWse",
+        "expirydate": "09-07-2041",
+        "Allowoffline": false
     }
 ]
