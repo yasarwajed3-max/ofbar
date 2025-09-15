@@ -100,5 +100,11 @@
         "key": "nd98RTSWse",
         "expirydate": "09-07-2041",
         "Allowoffline": false
+    },
+    {
+        "device_id": "d8834e6e2ee7db10",
+        "key": "N4Hhj3nLMy",
+        "expirydate": "15-12-2025",
+        "Allowoffline": false
     }
 ]
