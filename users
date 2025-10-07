@@ -142,5 +142,11 @@
         "key": "N7E6Zk39VJ",
         "expirydate": "29-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "56189f5b1cce75a8",
+        "key": "LtbEP73WST",
+        "expirydate": "07-09-2027",
+        "Allowoffline": false
     }
 ]
